@@ -1,0 +1,232 @@
+
+
+6ef021160ac49cd409c6 7338b14f8941
+
+
+_ZN20LocalFileSystemPosix4OpenER13FileEntryData14FilePermission16FileAutoBehavior
+
+
+
+_Z21Resources_CUSTOM_Load11ICallStringP10MonoObject
+PersistentManager::GetStreamNameSpaceInternal
+PathToAbsolutePath
+_ZN22LocalFileSystemAndroid10ToAbsoluteEPKc
+
+_ZN9Scripting11RaiseIfNullEP10MonoObject
+
+
+
+FileSystem::ToAbsolute        //_ZNK10FileSystem10ToAbsoluteEPKc
+LocalFileSystemAndroid::ToAbsolute
+
+
+
+_ZN15ResourceManager12GetPathRangeERKSs
+
+
+_ZNK4PPtrI6ObjectEcvPS0_Ev
+_Z31ReadObjectFromPersistentManageri
+_ZN17PersistentManager10ReadObjectEi17AwakeFromLoadMode
+_ZN17PersistentManager18ReadObjectThreadedEi
+_ZN17PersistentManager42GetSerializedFileInternalIfObjectAvailableEix
+_ZN17PersistentManager26GetStreamNameSpaceInternalEi
+_ZN14SerializedFile14InitializeReadERKSsR18ResourceImageGroupjj24TransferInstructionFlagsjj
+_ZN14FileCacherReadC1ERKSsjj
+_Z15malloc_internaljjRK10MemLabelIdiPKci
+_ZN13MemoryManager8AllocateEjiRK10MemLabelIdiPKci
+
+_ZN16AndroidSplitFile11IsFileSplitEPKc
+
+
+PersistentManager::GetStreamNameSpaceInternal   ->   SerializedFile::InitializeRead   ->   FileCacherRead::FileCacherRead   ->
+FileSystemEntry::Size   ->   LocalFileSystemAndroid::Size   ->   [AndroidSplitFile::IsFileSplit]
+
+
+(FileEntryData::~FileEntryData)_ZN13FileEntryDataD1Ev   ->   
+_ZNK20FileSystemAndroidAPK4SizeERK13FileEntryData   ->   
+AndroidSplitFile::Open   ->   apkOpen
+_ZN16AndroidSplitFile4OpenER13FileEntryData14FilePermission16FileAutoBehavior
+
+
+ZipCentralDirectory 0x5E61A5C0
+NativeFile          0x63DD9020
+ZipFile             0x63DE7A30
+
+
+
+_Z21Resources_CUSTOM_Load11ICallStringP10MonoObject+2A8j    调用 fopen apk
+
+_ZN13MemoryManager10DeallocateEPvRK10MemLabelId
+
+_Z18pathToAbsolutePathRKSs
+
+_ZN17PersistentManager19RemapToAbsolutePathERKSs
+
+LZ4_decompress_generic.dec64table   +36BD
+
+_Z13ReadFileCacheR15CacheReaderBasePvjj     // 第二次进入apkOpen
+_ZN4File4ReadEyPvj
+
+
+-----------------5.3.2f1   Release-----------------
+JNI_OnLoad          0x004D5784
+UnitySendMessage    0x004C065C
+apkOpen             0x004C75B4
+IsFileCreated       0x00451228
+
+
+E288
+89438
+890C0
+-----------------5.3.5p3   Development-----------------
+UnitySendMessage                            00516160
+JNI_OnLoad          5D851C48                00530C48
+apkOpen             5D8420C4                005210C4
+NativeFile                                  005208A8
+PathToAbsolutePath                          0049DAE8
+IsFileCreated                               0049D9E0
+ZipCentralDirectory::getApkName             005471C4
+
+
+apkOpen - UnitySendMessage = 0xAF64
+JNI_OnLoad - apkOpen = 0xFB84
+JNI_OnLoad - UnitySendMessage = 0x1AAE8
+JNI_OnLoad - NativeFile = 0x103A0
+JNI_OnLoad - PathToAbsolutePath = 0x93160
+JNI_OnLoad - IsFileCreated = 0x93268
+ZipCentralDirectory::getApkName - JNI_OnLoad = 0x1657C
+
+
+-----------------5.3.5p3   Release-----------------
+JNI_OnLoad            0x004e0de8
+apkOpen               0x004d2878
+IsFileCreated         0x00457d28
+UnitySendMessage      0x004cae9c
+
+apkOpen = UnitySendMessage + 0x79DC
+IsFileCreated = UnitySendMessage - 0x73174
+
+-----------------5.3.6p5   Release-----------------
+JNI_OnLoad            0x004e45f0
+UnitySendMessage      0x004ce334
+apkOpen               0x004d6368
+IsFileCreated         0x0045b1b8
+
+apkOpen = UnitySendMessage + 0x8034
+IsFileCreated = UnitySendMessage - 0x7317C
+
+
+-----------------5.3.6p5   Development-----------------
+JNI_OnLoad            0x004E45F0
+apkOpen               0x00524D74
+IsFileCreated         0x004A0EA0
+UnitySendMessage      0x00519668
+
+JNI_OnLoad - apkOpen = 0xF808
+JNI_OnLoad - IsFileCreated = 0x936DC
+JNI_OnLoad - UnitySendMessage = 0x1AF14
+
+
+
+v4    a1    63DBDAC0    ZipFile
+v5    a2    5E71A5C0    ZipCentralDirectory
+      a3    63D9AF80    NativeFile
+v6    a4    63D9384C    assets/bin/.....
+
+
+5E71A6C0    ZipCentralDirectory
+
+
+_ZN7ZipFile11inflateRead
+
+
+
+
+*(_DWORD *)(v4 + 8)
+*(_DWORD *)(v4 + 12)
+*(_DWORD *)(v4 + 16)
+*(_DWORD *)(v4 + 20)
+*(_DWORD *)(v4 + 24)
+*(_DWORD *)(v4 + 28)
+*(_DWORD *)(v4 + 40)
+**(_DWORD **)(v4 + 4)     一个对象，下面调用对象中的函数。。。可能是 NativeFile
+(  *(int (**)(void))   (**(_DWORD **)(v4 + 4) + 12)  )()
+(  *(int (**)(void))   (**(_DWORD **)(v4 + 4) + 16)  )()
+(  *(int (**)(void))   (**(_DWORD **)(v4 + 4) + 36)  )()        _ZN10NativeFile9waitAsyncEv
+(  *(void (**)(void))  (**(_DWORD **)(v4 + 4) + 20)  )()
+*(void (__fastcall **)(_DWORD, int, int))(  **(_DWORD **)(v4 + 4) + 32  )(   *(_DWORD *)(v4 + 4), ,   )
+
+
+
+
+MI3TD，系统版本：JXCCNBE21.0
+
+
+com.sinyee.babybus.town.ar.ly
+
+
+echo f|XCOPY /Y "$(TargetPath)" "D:\Unity5\GPlaySDKDemo\Assets\GPlay\Plugins\GPlayCPSDKLib.dll"
+
+
+
+
+天猫  京东   大众点评 支付宝 翼支付 高德地图 
+
+
+
+
+
+UNITY 5.4.1
+UNITY 5.4.0
+
+
+UNITY 5.3.6
+
+UNITY 5.3.5
+
+UNITY 5.3.4
+
+UNITY 5.3.3
+
+UNITY 5.3.2
+
+UNITY 5.3.1
+
+UNITY 5.3.0
+
+
+UNITY 5.2.5
+
+UNITY 5.2.4
+
+UNITY 5.2.3
+
+UNITY 5.2.2
+
+UNITY 5.2.1
+
+UNITY 5.2.0
+
+
+UNITY 5.1.5
+
+UNITY 5.1.4
+
+UNITY 5.1.3
+
+UNITY 5.1.2
+
+UNITY 5.1.1
+
+UNITY 5.1.0
+
+
+UNITY 5.0.4
+
+UNITY 5.0.3
+
+UNITY 5.0.2
+
+UNITY 5.0.1
+
+UNITY 5.0.0
