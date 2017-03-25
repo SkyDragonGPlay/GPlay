@@ -1,0 +1,1046 @@
+{
+  "4.3.0f4": {
+    "___GSPS_ADDR_IFC___": 3799576,
+    "___GSPS_ADDR_JOA___": 3718916,
+    "___GSPS_ADDR_AO___": 3802796
+  },
+  "4.3.1f1": {
+    "___GSPS_ADDR_IFC___": 3800168,
+    "___GSPS_ADDR_JOA___": 3719508,
+    "___GSPS_ADDR_AO___": 3803388
+  },
+  "4.3.2f1": {
+    "___GSPS_ADDR_IFC___": 3800168,
+    "___GSPS_ADDR_JOA___": 3719508,
+    "___GSPS_ADDR_AO___": 3803388
+  },
+  "4.3.3f1": {
+    "___GSPS_ADDR_IFC___": 3794036,
+    "___GSPS_ADDR_JOA___": 3720864,
+    "___GSPS_ADDR_AO___": 3795472
+  },
+  "4.3.4f1": {
+    "___GSPS_ADDR_IFC___": 3793996,
+    "___GSPS_ADDR_JOA___": 3720824,
+    "___GSPS_ADDR_AO___": 3795432
+  },
+  "4.5.0f6": {
+    "___GSPS_ADDR_IFC___": 3962556, //IsFileCreated
+    "___GSPS_ADDR_JOA___": 3992508, //JNI_OnLoad
+    "___GSPS_ADDR_AO___": 3929580,  //ApkOpen
+    "___GSPS_ADDR_WC___": 1527992   //WWWCreate
+  },
+  "4.5.1f3": {
+    "___GSPS_ADDR_IFC___": 3962932,
+    "___GSPS_ADDR_JOA___": 3992884,
+    "___GSPS_ADDR_AO___": 3929956,
+    "___GSPS_ADDR_WC___": 1527344
+  },
+  "4.5.2f1": {
+    "___GSPS_ADDR_IFC___": 3963636,
+    "___GSPS_ADDR_JOA___": 3993588,
+    "___GSPS_ADDR_AO___": 3930660,
+    "___GSPS_ADDR_WC___": 1527136
+  },
+  "4.5.3f3": {
+    "___GSPS_ADDR_IFC___": 3967092,
+    "___GSPS_ADDR_JOA___": 3997044,
+    "___GSPS_ADDR_AO___": 3934116,
+    "___GSPS_ADDR_WC___": 1530000
+  },
+  "4.5.3p1": {
+    "___GSPS_ADDR_IFC___": 3967876,
+    "___GSPS_ADDR_JOA___": 3997828,
+    "___GSPS_ADDR_AO___": 3934900,
+    "___GSPS_ADDR_WC___": 1530768
+  },
+  "4.5.3p2": {
+    "___GSPS_ADDR_IFC___": 3967876,
+    "___GSPS_ADDR_JOA___": 3997828,
+    "___GSPS_ADDR_AO___": 3934900,
+    "___GSPS_ADDR_WC___": 1530768
+  },
+  "4.5.3p3": {
+    "___GSPS_ADDR_IFC___": 3967748,
+    "___GSPS_ADDR_JOA___": 3997700,
+    "___GSPS_ADDR_AO___": 3934772,
+    "___GSPS_ADDR_WC___": 1530768
+  },
+  "4.5.3p4": {
+    "___GSPS_ADDR_IFC___": 3967468,
+    "___GSPS_ADDR_JOA___": 3997420,
+    "___GSPS_ADDR_AO___": 3934492,
+    "___GSPS_ADDR_WC___": 1530280
+  },
+  "4.5.4f1": {
+    "___GSPS_ADDR_IFC___": 3967468,
+    "___GSPS_ADDR_JOA___": 3997420,
+    "___GSPS_ADDR_AO___": 3934492,
+    "___GSPS_ADDR_WC___": 1530280
+  },
+  "4.5.4p1": {
+    "___GSPS_ADDR_IFC___": 3967892,
+    "___GSPS_ADDR_JOA___": 3997844,
+    "___GSPS_ADDR_AO___": 3934832,
+    "___GSPS_ADDR_WC___": 1530480
+  },
+  "4.5.4p2": {
+    "___GSPS_ADDR_IFC___": 3968300,
+    "___GSPS_ADDR_JOA___": 3998252,
+    "___GSPS_ADDR_AO___": 3935240,
+    "___GSPS_ADDR_WC___": 1530592
+  },
+  "4.5.4p3": {
+    "___GSPS_ADDR_IFC___": 3968516,
+    "___GSPS_ADDR_JOA___": 3998468,
+    "___GSPS_ADDR_AO___": 3935456,
+    "___GSPS_ADDR_WC___": 1530592
+  },
+  "4.5.5f1": {
+    "___GSPS_ADDR_IFC___": 3968516,
+    "___GSPS_ADDR_JOA___": 3998468,
+    "___GSPS_ADDR_AO___": 3935456,
+    "___GSPS_ADDR_WC___": 1530592
+  },
+  "4.5.5p1": {
+    "___GSPS_ADDR_IFC___": 3969572,
+    "___GSPS_ADDR_JOA___": 3999524,
+    "___GSPS_ADDR_AO___": 3936512,
+    "___GSPS_ADDR_WC___": 1531640
+  },
+  "4.5.5p2": {
+    "___GSPS_ADDR_IFC___": 3969476,
+    "___GSPS_ADDR_JOA___": 3999428,
+    "___GSPS_ADDR_AO___": 3936416,
+    "___GSPS_ADDR_WC___": 1531736
+  },
+  "4.5.5p3": {
+    "___GSPS_ADDR_IFC___": 3971212,
+    "___GSPS_ADDR_JOA___": 4001164,
+    "___GSPS_ADDR_AO___": 3937968,
+    "___GSPS_ADDR_WC___": 1531848
+  },
+  "4.5.5p4": {
+    "___GSPS_ADDR_IFC___": 3971924,
+    "___GSPS_ADDR_JOA___": 4001876,
+    "___GSPS_ADDR_AO___": 3938680,
+    "___GSPS_ADDR_WC___": 1531848
+  },
+  "4.5.5p5": {
+    "___GSPS_ADDR_IFC___": 3971348,
+    "___GSPS_ADDR_JOA___": 4001300,
+    "___GSPS_ADDR_AO___": 3938104,
+    "___GSPS_ADDR_WC___": 1531560
+  },
+  "4.6.0f3": {
+    "___GSPS_ADDR_IFC___": 3982220,
+    "___GSPS_ADDR_JOA___": 4012172,
+    "___GSPS_ADDR_AO___": 3949160,
+    "___GSPS_ADDR_WC___": 1535348
+  },
+  "4.6.0p1": {
+    "___GSPS_ADDR_IFC___": 3986748,
+    "___GSPS_ADDR_JOA___": 4017108,
+    "___GSPS_ADDR_AO___": 3953092,
+    "___GSPS_ADDR_WC___": 1537388
+  },
+  "4.6.1f1": {
+    "___GSPS_ADDR_IFC___": 3986748,
+    "___GSPS_ADDR_JOA___": 4017108,
+    "___GSPS_ADDR_AO___": 3953092,
+    "___GSPS_ADDR_WC___": 1537388
+  },
+  "4.6.1p1": {
+    "___GSPS_ADDR_IFC___": 3986372,
+    "___GSPS_ADDR_JOA___": 4016752,
+    "___GSPS_ADDR_AO___": 3952716,
+    "___GSPS_ADDR_WC___": 1537420
+  },
+  "4.6.1p2": {
+    "___GSPS_ADDR_IFC___": 3989076,
+    "___GSPS_ADDR_JOA___": 4019404,
+    "___GSPS_ADDR_AO___": 3955156,
+    "___GSPS_ADDR_WC___": 1537884
+  },
+  "4.6.1p3": {
+    "___GSPS_ADDR_IFC___": 3989476,
+    "___GSPS_ADDR_JOA___": 4019804,
+    "___GSPS_ADDR_AO___": 3955556,
+    "___GSPS_ADDR_WC___": 1537916
+  },
+  "4.6.1p4": {
+    "___GSPS_ADDR_IFC___": 3990792,
+    "___GSPS_ADDR_JOA___": 4021120,
+    "___GSPS_ADDR_AO___": 3956156,
+    "___GSPS_ADDR_WC___": 1537836
+  },
+  "4.6.1p5": {
+    "___GSPS_ADDR_IFC___": 4019008,
+    "___GSPS_ADDR_JOA___": 4049336,
+    "___GSPS_ADDR_AO___": 3984416,
+    "___GSPS_ADDR_WC___": 1542900
+  },
+  "4.6.2f1": {
+    "___GSPS_ADDR_IFC___": 4019008,
+    "___GSPS_ADDR_JOA___": 4049336,
+    "___GSPS_ADDR_AO___": 3984416,
+    "___GSPS_ADDR_WC___": 1542900
+  },
+  "4.6.2p1": {
+    "___GSPS_ADDR_IFC___": 4017464,
+    "___GSPS_ADDR_JOA___": 4047792,
+    "___GSPS_ADDR_AO___": 3982872,
+    "___GSPS_ADDR_WC___": 1542104
+  },
+  "4.6.2p2": {
+    "___GSPS_ADDR_IFC___": 4007368,
+    "___GSPS_ADDR_JOA___": 4037696,
+    "___GSPS_ADDR_AO___": 3972776,
+    "___GSPS_ADDR_WC___": 1529216
+  },
+  "4.6.3f1": {
+    "___GSPS_ADDR_IFC___": 4007368,
+    "___GSPS_ADDR_JOA___": 4037696,
+    "___GSPS_ADDR_AO___": 3972776,
+    "___GSPS_ADDR_WC___": 1529216
+  },
+  "4.6.3p1": {
+    "___GSPS_ADDR_IFC___": 4017592,
+    "___GSPS_ADDR_JOA___": 4047920,
+    "___GSPS_ADDR_AO___": 3983000,
+    "___GSPS_ADDR_WC___": 1529248
+  },
+  "4.6.3p2": {
+    "___GSPS_ADDR_IFC___": 4020012,
+    "___GSPS_ADDR_JOA___": 4060276,
+    "___GSPS_ADDR_AO___": 3985420,
+    "___GSPS_ADDR_WC___": 1530776
+  },
+  "4.6.3p3": {
+    "___GSPS_ADDR_IFC___": 4020332,
+    "___GSPS_ADDR_JOA___": 4060596,
+    "___GSPS_ADDR_AO___": 3985740,
+    "___GSPS_ADDR_WC___": 1531096
+  },
+  "4.6.3p4": {
+    "___GSPS_ADDR_IFC___": 4021228,
+    "___GSPS_ADDR_JOA___": 4061492,
+    "___GSPS_ADDR_AO___": 3986620,
+    "___GSPS_ADDR_WC___": 1531144
+  },
+  "4.6.4f1": {
+    "___GSPS_ADDR_IFC___": 4021228,
+    "___GSPS_ADDR_JOA___": 4061492,
+    "___GSPS_ADDR_AO___": 3986620,
+    "___GSPS_ADDR_WC___": 1531144
+  },
+  "4.6.4p1": {
+    "___GSPS_ADDR_IFC___": 4021588,
+    "___GSPS_ADDR_JOA___": 4061852,
+    "___GSPS_ADDR_AO___": 3986980,
+    "___GSPS_ADDR_WC___": 1531168
+  },
+  "4.6.4p2": {
+    "___GSPS_ADDR_IFC___": 4021748,
+    "___GSPS_ADDR_JOA___": 4062012,
+    "___GSPS_ADDR_AO___": 3987028,
+    "___GSPS_ADDR_WC___": 1531168
+  },
+  "4.6.4p3": {
+    "___GSPS_ADDR_IFC___": 4021828,
+    "___GSPS_ADDR_JOA___": 4062092,
+    "___GSPS_ADDR_AO___": 3987108,
+    "___GSPS_ADDR_WC___": 1531184
+  },
+  "4.6.4p4": {
+    "___GSPS_ADDR_IFC___": 4021948,
+    "___GSPS_ADDR_JOA___": 4062212,
+    "___GSPS_ADDR_AO___": 3987228,
+    "___GSPS_ADDR_WC___": 1531288
+  },
+  "4.6.5f1": {
+    "___GSPS_ADDR_IFC___": 4021948,
+    "___GSPS_ADDR_JOA___": 4062212,
+    "___GSPS_ADDR_AO___": 3987228,
+    "___GSPS_ADDR_WC___": 1531288
+  },
+  "4.6.5p1": {
+    "___GSPS_ADDR_IFC___": 4022068,
+    "___GSPS_ADDR_JOA___": 4062332,
+    "___GSPS_ADDR_AO___": 3987324,
+    "___GSPS_ADDR_WC___": 1531384
+  },
+  "4.6.5p2": {
+    "___GSPS_ADDR_IFC___": 4022964,
+    "___GSPS_ADDR_JOA___": 4063228,
+    "___GSPS_ADDR_AO___": 3988220,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.5p3": {
+    "___GSPS_ADDR_IFC___": 4022964,
+    "___GSPS_ADDR_JOA___": 4063228,
+    "___GSPS_ADDR_AO___": 3988220,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.5p4": {
+    "___GSPS_ADDR_IFC___": 4023012,
+    "___GSPS_ADDR_JOA___": 4063276,
+    "___GSPS_ADDR_AO___": 3988268,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.6f2": {
+    "___GSPS_ADDR_IFC___": 4025804,
+    "___GSPS_ADDR_JOA___": 4066068,
+    "___GSPS_ADDR_AO___": 3991060,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.6p1": {
+    "___GSPS_ADDR_IFC___": 4026300,
+    "___GSPS_ADDR_JOA___": 4066564,
+    "___GSPS_ADDR_AO___": 3991556,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.6p2": {
+    "___GSPS_ADDR_IFC___": 4026420,
+    "___GSPS_ADDR_JOA___": 4066684,
+    "___GSPS_ADDR_AO___": 3991676,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.6p3": {
+    "___GSPS_ADDR_IFC___": 4026420,
+    "___GSPS_ADDR_JOA___": 4066684,
+    "___GSPS_ADDR_AO___": 3991676,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.6p4": {
+    "___GSPS_ADDR_IFC___": 4026420,
+    "___GSPS_ADDR_JOA___": 4066684,
+    "___GSPS_ADDR_AO___": 3991676,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.7f1": {
+    "___GSPS_ADDR_IFC___": 4026420,
+    "___GSPS_ADDR_JOA___": 4066684,
+    "___GSPS_ADDR_AO___": 3991676,
+    "___GSPS_ADDR_WC___": 1531808
+  },
+  "4.6.7p1": {
+    "___GSPS_ADDR_IFC___": 4026580,
+    "___GSPS_ADDR_JOA___": 4066844,
+    "___GSPS_ADDR_AO___": 3991836,
+    "___GSPS_ADDR_WC___": 1531824
+  },
+  "4.6.7p2": {
+    "___GSPS_ADDR_IFC___": 4026636,
+    "___GSPS_ADDR_JOA___": 4066900,
+    "___GSPS_ADDR_AO___": 3991892,
+    "___GSPS_ADDR_WC___": 1531824
+  },
+  "4.6.7p3": {
+    "___GSPS_ADDR_IFC___": 4026636,
+    "___GSPS_ADDR_JOA___": 4066900,
+    "___GSPS_ADDR_AO___": 3991892,
+    "___GSPS_ADDR_WC___": 1531824
+  },
+  "4.6.7p4": {
+    "___GSPS_ADDR_IFC___": 4026720,
+    "___GSPS_ADDR_JOA___": 4067552,
+    "___GSPS_ADDR_AO___": 3991804,
+    "___GSPS_ADDR_WC___": 1531824
+  },
+  "4.6.8f1": {
+    "___GSPS_ADDR_IFC___": 4026720,
+    "___GSPS_ADDR_JOA___": 4066984,
+    "___GSPS_ADDR_AO___": 3991804,
+    "___GSPS_ADDR_WC___": 1531824
+  },
+  "4.6.8p1": {
+    "___GSPS_ADDR_IFC___": 4026720,
+    "___GSPS_ADDR_JOA___": 4066984,
+    "___GSPS_ADDR_AO___": 3991804,
+    "___GSPS_ADDR_WC___": 1531824
+  },
+  "4.6.8p2": {
+    "___GSPS_ADDR_IFC___": 4026920,
+    "___GSPS_ADDR_JOA___": 4067184,
+    "___GSPS_ADDR_AO___": 3992004,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.8p3": {
+    "___GSPS_ADDR_IFC___": 4026976,
+    "___GSPS_ADDR_JOA___": 4067240,
+    "___GSPS_ADDR_AO___": 3992060,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.8p4": {
+    "___GSPS_ADDR_IFC___": 4026976,
+    "___GSPS_ADDR_JOA___": 4067240,
+    "___GSPS_ADDR_AO___": 3992060,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.9f1": {
+    "___GSPS_ADDR_IFC___": 4026976,
+    "___GSPS_ADDR_JOA___": 4067240,
+    "___GSPS_ADDR_AO___": 3992060,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.9p1": {
+    "___GSPS_ADDR_IFC___": 4027512,
+    "___GSPS_ADDR_JOA___": 4067776,
+    "___GSPS_ADDR_AO___": 3992596,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.9p2": {
+    "___GSPS_ADDR_IFC___": 4027512,
+    "___GSPS_ADDR_JOA___": 4067776,
+    "___GSPS_ADDR_AO___": 3992596,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.9p3": {
+    "___GSPS_ADDR_IFC___": 4027504,
+    "___GSPS_ADDR_JOA___": 4067768,
+    "___GSPS_ADDR_AO___": 3992588,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.6.9p4": {
+    "___GSPS_ADDR_IFC___": 4027672,
+    "___GSPS_ADDR_JOA___": 4067936,
+    "___GSPS_ADDR_AO___": 3992756,
+    "___GSPS_ADDR_WC___": 1532024
+  },
+  "4.7.0f1": {
+    "___GSPS_ADDR_IFC___": 4027916,
+    "___GSPS_ADDR_JOA___": 4068180,
+    "___GSPS_ADDR_AO___": 3993000,
+    "___GSPS_ADDR_WC___": 1532056
+  },
+  "4.7.1f1": {
+    "___GSPS_ADDR_IFC___": 4027868,
+    "___GSPS_ADDR_JOA___": 4068132,
+    "___GSPS_ADDR_AO___": 3992952,
+    "___GSPS_ADDR_WC___": 1532056
+  },
+  "4.7.2f1": {
+    "___GSPS_ADDR_IFC___": 4027868,
+    "___GSPS_ADDR_JOA___": 4068132,
+    "___GSPS_ADDR_AO___": 3992952,
+    "___GSPS_ADDR_WC___": 1532056
+  },
+  "5.0.0f4": {
+    "___GSPS_ADDR_IFC___": 4238436,
+    "___GSPS_ADDR_JOA___": 4964992,
+    "___GSPS_ADDR_AO___": 4910872,
+    "___GSPS_ADDR_WC___": 1367660
+  },
+  "5.0.0p1": {
+    "___GSPS_ADDR_IFC___": 4242044,
+    "___GSPS_ADDR_JOA___": 4968816,
+    "___GSPS_ADDR_AO___": 4914696,
+    "___GSPS_ADDR_WC___": 971036
+  },
+  "5.0.0p2": {
+    "___GSPS_ADDR_IFC___": 4242836,
+    "___GSPS_ADDR_JOA___": 4967932,
+    "___GSPS_ADDR_AO___": 4913820,
+    "___GSPS_ADDR_WC___": 765564
+  },
+  "5.0.0p3": {
+    "___GSPS_ADDR_IFC___": 4247232,
+    "___GSPS_ADDR_JOA___": 4977372,
+    "___GSPS_ADDR_AO___": 4923008,
+    "___GSPS_ADDR_WC___": 767156
+  },
+  "5.0.1f1": {
+    "___GSPS_ADDR_IFC___": 4247232,
+    "___GSPS_ADDR_JOA___": 4977372,
+    "___GSPS_ADDR_AO___": 4923008,
+    "___GSPS_ADDR_WC___": 734320
+  },
+  "5.0.1p1": {
+    "___GSPS_ADDR_IFC___": 4259196,
+    "___GSPS_ADDR_JOA___": 4992168,
+    "___GSPS_ADDR_AO___": 4935940,
+    "___GSPS_ADDR_WC___": 735056
+  },
+  "5.0.1p2": {
+    "___GSPS_ADDR_IFC___": 4259476,
+    "___GSPS_ADDR_JOA___": 4992600,
+    "___GSPS_ADDR_AO___": 4936348,
+    "___GSPS_ADDR_WC___": 768172
+  },
+  "5.0.1p3": {
+    "___GSPS_ADDR_IFC___": 4259476,
+    "___GSPS_ADDR_JOA___": 4992608,
+    "___GSPS_ADDR_AO___": 4936356,
+    "___GSPS_ADDR_WC___": 735184
+  },
+  "5.0.1p4": {
+    "___GSPS_ADDR_IFC___": 4258716,
+    "___GSPS_ADDR_JOA___": 4991856,
+    "___GSPS_ADDR_AO___": 4935604,
+    "___GSPS_ADDR_WC___": 973692
+  },
+  "5.0.2f1": {
+    "___GSPS_ADDR_IFC___": 4258716,
+    "___GSPS_ADDR_JOA___": 4991856,
+    "___GSPS_ADDR_AO___": 4935604,
+    "___GSPS_ADDR_WC___": 2240548
+  },
+  "5.0.2p1": {
+    "___GSPS_ADDR_IFC___": 4264268,
+    "___GSPS_ADDR_JOA___": 4997448,
+    "___GSPS_ADDR_AO___": 4941172,
+    "___GSPS_ADDR_WC___": 735664
+  },
+  "5.0.2p2": {
+    "___GSPS_ADDR_IFC___": 4264524,
+    "___GSPS_ADDR_JOA___": 4997688,
+    "___GSPS_ADDR_AO___": 4941444,
+    "___GSPS_ADDR_WC___": 735664
+  },
+  "5.0.2p3": {
+    "___GSPS_ADDR_IFC___": 4264524,
+    "___GSPS_ADDR_JOA___": 4997688,
+    "___GSPS_ADDR_AO___": 4941444,
+    "___GSPS_ADDR_WC___": 768652
+  },
+  "5.0.2p4": {
+    "___GSPS_ADDR_IFC___": 4264588,
+    "___GSPS_ADDR_JOA___": 4997752,
+    "___GSPS_ADDR_AO___": 4941508,
+    "___GSPS_ADDR_WC___": 735664
+  },
+  "5.0.3f2": {
+    "___GSPS_ADDR_IFC___": 4264588,
+    "___GSPS_ADDR_JOA___": 5000552,
+    "___GSPS_ADDR_AO___": 4944308,
+    "___GSPS_ADDR_WC___": 735664
+  },
+  "5.0.3p1": {
+    "___GSPS_ADDR_IFC___": 4264700,
+    "___GSPS_ADDR_JOA___": 5000696,
+    "___GSPS_ADDR_AO___": 4944420,
+    "___GSPS_ADDR_WC___": 768844
+  },
+  "5.0.3p2": {
+    "___GSPS_ADDR_IFC___": 4264692,
+    "___GSPS_ADDR_JOA___": 5000680,
+    "___GSPS_ADDR_AO___": 4944404,
+    "___GSPS_ADDR_WC___": 735856
+  },
+  "5.0.3p3": {
+    "___GSPS_ADDR_IFC___": 4264724,
+    "___GSPS_ADDR_JOA___": 5000768,
+    "___GSPS_ADDR_AO___": 4944492,
+    "___GSPS_ADDR_WC___": 735856
+  },
+  "5.0.4f1": {
+    "___GSPS_ADDR_IFC___": 4264724,
+    "___GSPS_ADDR_JOA___": 5000768,
+    "___GSPS_ADDR_AO___": 4944492,
+    "___GSPS_ADDR_WC___": 735856
+  },
+  "5.1.0f3": {
+    "___GSPS_ADDR_IFC___": 4023172,
+    "___GSPS_ADDR_JOA___": 4799292,
+    "___GSPS_ADDR_AO___": 4747376,
+    "___GSPS_ADDR_WC___": 400312
+  },
+  "5.1.0p1": {
+    "___GSPS_ADDR_IFC___": 4019188,
+    "___GSPS_ADDR_JOA___": 4799152,
+    "___GSPS_ADDR_AO___": 4747236,
+    "___GSPS_ADDR_WC___": 367708
+  },
+  "5.1.1f1": {
+    "___GSPS_ADDR_IFC___": 4019188,
+    "___GSPS_ADDR_JOA___": 4799152,
+    "___GSPS_ADDR_AO___": 4747236,
+    "___GSPS_ADDR_WC___": 400696
+  },
+  "5.1.1p1": {
+    "___GSPS_ADDR_IFC___": 4019668,
+    "___GSPS_ADDR_JOA___": 4799600,
+    "___GSPS_ADDR_AO___": 4747628,
+    "___GSPS_ADDR_WC___": 368252
+  },
+  "5.1.1p2": {
+    "___GSPS_ADDR_IFC___": 4018308,
+    "___GSPS_ADDR_JOA___": 4798864,
+    "___GSPS_ADDR_AO___": 4746892,
+    "___GSPS_ADDR_WC___": 368332
+  },
+  "5.1.1p3": {
+    "___GSPS_ADDR_IFC___": 4018420,
+    "___GSPS_ADDR_JOA___": 4798976,
+    "___GSPS_ADDR_AO___": 4747004,
+    "___GSPS_ADDR_WC___": 368396
+  },
+  "5.1.1p4": {
+    "___GSPS_ADDR_IFC___": 4018516,
+    "___GSPS_ADDR_JOA___": 4799072,
+    "___GSPS_ADDR_AO___": 4747100,
+    "___GSPS_ADDR_WC___": 368380
+  },
+  "5.1.2f1": {
+    "___GSPS_ADDR_IFC___": 4018516,
+    "___GSPS_ADDR_JOA___": 4799072,
+    "___GSPS_ADDR_AO___": 4747100,
+    "___GSPS_ADDR_WC___": 368380
+  },
+  "5.1.2p1": {
+    "___GSPS_ADDR_IFC___": 4020684,
+    "___GSPS_ADDR_JOA___": 4801680,
+    "___GSPS_ADDR_AO___": 4749708,
+    "___GSPS_ADDR_WC___": 368412
+  },
+  "5.1.2p2": {
+    "___GSPS_ADDR_IFC___": 4020876,
+    "___GSPS_ADDR_JOA___": 4801104,
+    "___GSPS_ADDR_AO___": 4749244,
+    "___GSPS_ADDR_WC___": 368428
+  },
+  "5.1.2p3": {
+    "___GSPS_ADDR_IFC___": 4021228,
+    "___GSPS_ADDR_JOA___": 4801456,
+    "___GSPS_ADDR_AO___": 4749596,
+    "___GSPS_ADDR_WC___": 368092
+  },
+  "5.1.3f1": {
+    "___GSPS_ADDR_IFC___": 4021228,
+    "___GSPS_ADDR_JOA___": 4801504,
+    "___GSPS_ADDR_AO___": 4749644,
+    "___GSPS_ADDR_WC___": 368092
+  },
+  "5.1.3p1": {
+    "___GSPS_ADDR_IFC___": 4021372,
+    "___GSPS_ADDR_JOA___": 4801592,
+    "___GSPS_ADDR_AO___": 4749732,
+    "___GSPS_ADDR_WC___": 368108
+  },
+  "5.1.3p2": {
+    "___GSPS_ADDR_IFC___": 4021468,
+    "___GSPS_ADDR_JOA___": 4801688,
+    "___GSPS_ADDR_AO___": 4749828,
+    "___GSPS_ADDR_WC___": 368108
+  },
+  "5.1.3p3": {
+    "___GSPS_ADDR_IFC___": 4021852,
+    "___GSPS_ADDR_JOA___": 4802072,
+    "___GSPS_ADDR_AO___": 4750212,
+    "___GSPS_ADDR_WC___": 368172
+  },
+  "5.1.4f1": {
+    "___GSPS_ADDR_IFC___": 4021908,
+    "___GSPS_ADDR_JOA___": 4802144,
+    "___GSPS_ADDR_AO___": 4750284,
+    "___GSPS_ADDR_WC___": 368172
+  },
+  "5.1.5f1": {
+    "___GSPS_ADDR_IFC___": 4022260,
+    "___GSPS_ADDR_JOA___": 4802536,
+    "___GSPS_ADDR_AO___": 4750652,
+    "___GSPS_ADDR_WC___": 368172
+  },
+  "5.2.0f3": {
+    "___GSPS_ADDR_IFC___": 4072992,
+    "___GSPS_ADDR_JOA___": 4806640,
+    "___GSPS_ADDR_AO___": 4755224,
+    "___GSPS_ADDR_WC___": 392252
+  },
+  "5.2.0p1": {
+    "___GSPS_ADDR_IFC___": 4074368,
+    "___GSPS_ADDR_JOA___": 4809224,
+    "___GSPS_ADDR_AO___": 4757596,
+    "___GSPS_ADDR_WC___": 392284
+  },
+  "5.2.1f1": {
+    "___GSPS_ADDR_IFC___": 4074368,
+    "___GSPS_ADDR_JOA___": 4809224,
+    "___GSPS_ADDR_AO___": 4757596,
+    "___GSPS_ADDR_WC___": 392284
+  },
+  "5.2.1p1": {
+    "___GSPS_ADDR_IFC___": 4074944,
+    "___GSPS_ADDR_JOA___": 4809800,
+    "___GSPS_ADDR_AO___": 4758172,
+    "___GSPS_ADDR_WC___": 392332 
+  },
+  "5.2.1p2": {
+    "___GSPS_ADDR_IFC___": 4075376,
+    "___GSPS_ADDR_JOA___": 4810320,
+    "___GSPS_ADDR_AO___": 4758692,
+    "___GSPS_ADDR_WC___": 392524
+  },
+  "5.2.1p3": {
+    "___GSPS_ADDR_IFC___": 4079768,
+    "___GSPS_ADDR_JOA___": 4814944,
+    "___GSPS_ADDR_AO___": 4763316,
+    "___GSPS_ADDR_WC___": 396636
+  },
+  "5.2.1p4": {
+    "___GSPS_ADDR_IFC___": 4080112,
+    "___GSPS_ADDR_JOA___": 4815280,
+    "___GSPS_ADDR_AO___": 4763652,
+    "___GSPS_ADDR_WC___": 396652
+  },
+  "5.2.2f1": {
+    "___GSPS_ADDR_IFC___": 4080112,
+    "___GSPS_ADDR_JOA___": 4815280,
+    "___GSPS_ADDR_AO___": 4763652,
+    "___GSPS_ADDR_WC___": 396652
+  },
+  "5.2.2p1": {
+    "___GSPS_ADDR_IFC___": 4080680,
+    "___GSPS_ADDR_JOA___": 4816064,
+    "___GSPS_ADDR_AO___": 4764436,
+    "___GSPS_ADDR_WC___": 396700
+  },
+  "5.2.2p2": {
+    "___GSPS_ADDR_IFC___": 4082120,
+    "___GSPS_ADDR_JOA___": 4819688,
+    "___GSPS_ADDR_AO___": 4768060,
+    "___GSPS_ADDR_WC___": 396764
+  },
+  "5.2.2p3": {
+    "___GSPS_ADDR_IFC___": 4082120,
+    "___GSPS_ADDR_JOA___": 4819832,
+    "___GSPS_ADDR_AO___": 4768204,
+    "___GSPS_ADDR_WC___": 396764
+  },
+  "5.2.2p4": {
+    "___GSPS_ADDR_IFC___": 4082680,
+    "___GSPS_ADDR_JOA___": 4821268,
+    "___GSPS_ADDR_AO___": 4769516,
+    "___GSPS_ADDR_WC___": 396812
+  },
+  "5.2.3f1": {
+    "___GSPS_ADDR_IFC___": 4082680,
+    "___GSPS_ADDR_JOA___": 4821268,
+    "___GSPS_ADDR_AO___": 4769516,
+    "___GSPS_ADDR_WC___": 396812
+  },
+  "5.2.3p1": {
+    "___GSPS_ADDR_IFC___": 4081240,
+    "___GSPS_ADDR_JOA___": 4819828,
+    "___GSPS_ADDR_AO___": 4768076,
+    "___GSPS_ADDR_WC___": 396924
+  },
+  "5.2.3p2": {
+    "___GSPS_ADDR_IFC___": 4081240,
+    "___GSPS_ADDR_JOA___": 4819828,
+    "___GSPS_ADDR_AO___": 4768076,
+    "___GSPS_ADDR_WC___": 396924
+  },
+  "5.2.3p3": {
+    "___GSPS_ADDR_IFC___": 4081240,
+    "___GSPS_ADDR_JOA___": 4819868,
+    "___GSPS_ADDR_AO___": 4768116,
+    "___GSPS_ADDR_WC___": 396924
+  },
+  "5.2.4f1": {
+    "___GSPS_ADDR_IFC___": 4081256,
+    "___GSPS_ADDR_JOA___": 4820136,
+    "___GSPS_ADDR_AO___": 4768376,
+    "___GSPS_ADDR_WC___": 396940
+  },
+  "5.2.5f1": {
+    "___GSPS_ADDR_IFC___": 4080432,
+    "___GSPS_ADDR_JOA___": 4820204,
+    "___GSPS_ADDR_AO___": 4768352,
+    "___GSPS_ADDR_WC___": 396972
+  },
+  "5.3.0f4": {
+    "___GSPS_ADDR_IFC___": 4514792,
+    "___GSPS_ADDR_JOA___": 5049388,
+    "___GSPS_ADDR_AO___": 4991636,
+    "___GSPS_ADDR_WC___": 408140
+  },
+  "5.3.1f1": {
+    "___GSPS_ADDR_IFC___": 4521096,
+    "___GSPS_ADDR_JOA___": 5062260,
+    "___GSPS_ADDR_AO___": 5004496,
+    "___GSPS_ADDR_WC___": 409484
+  },
+  "5.3.1p1": {
+    "___GSPS_ADDR_IFC___": 4522060,
+    "___GSPS_ADDR_JOA___": 5063476,
+    "___GSPS_ADDR_AO___": 5005712,
+    "___GSPS_ADDR_WC___": 409852
+  },
+  "5.3.1p2": {
+    "___GSPS_ADDR_IFC___": 4522076,
+    "___GSPS_ADDR_JOA___": 5063428,
+    "___GSPS_ADDR_AO___": 5005664,
+    "___GSPS_ADDR_WC___": 409852
+  },
+  "5.3.1p3": {
+    "___GSPS_ADDR_IFC___": 4524940,
+    "___GSPS_ADDR_JOA___": 5066580,
+    "___GSPS_ADDR_AO___": 5008772,
+    "___GSPS_ADDR_WC___": 410044
+  },
+  "5.3.1p4": {
+    "___GSPS_ADDR_IFC___": 4526632,
+    "___GSPS_ADDR_JOA___": 5068676,
+    "___GSPS_ADDR_AO___": 5010868,
+    "___GSPS_ADDR_WC___": 410044
+  },
+  "5.3.2f1": {
+    "___GSPS_ADDR_IFC___": 4526632,
+    "___GSPS_ADDR_JOA___": 5068676,
+    "___GSPS_ADDR_AO___": 5010868,
+    "___GSPS_ADDR_WC___": 410044
+  },
+  "5.3.2p1": {
+    "___GSPS_ADDR_IFC___": 4528120,
+    "___GSPS_ADDR_JOA___": 5070544,
+    "___GSPS_ADDR_AO___": 5012644,
+    "___GSPS_ADDR_WC___": 409596 
+  },
+  "5.3.2p2": {
+    "___GSPS_ADDR_IFC___": 4528168,
+    "___GSPS_ADDR_JOA___": 5071136,
+    "___GSPS_ADDR_AO___": 5012692,
+    "___GSPS_ADDR_WC___": 409596
+  },
+  "5.3.2p3": {
+    "___GSPS_ADDR_IFC___": 4528840,
+    "___GSPS_ADDR_JOA___": 5072272,
+    "___GSPS_ADDR_AO___": 5013828,
+    "___GSPS_ADDR_WC___": 409660
+  },
+  "5.3.2p4": {
+    "___GSPS_ADDR_IFC___": 4530552,
+    "___GSPS_ADDR_JOA___": 5074912,
+    "___GSPS_ADDR_AO___": 5016468,
+    "___GSPS_ADDR_WC___": 409692
+  },
+  "5.3.3f1": {
+    "___GSPS_ADDR_IFC___": 4530776,
+    "___GSPS_ADDR_JOA___": 5074912,
+    "___GSPS_ADDR_AO___": 5016468,
+    "___GSPS_ADDR_WC___": 409692
+  },
+  "5.3.3p1": {
+    "___GSPS_ADDR_IFC___": 4532488,
+    "___GSPS_ADDR_JOA___": 5076624,
+    "___GSPS_ADDR_AO___": 5018180,
+    "___GSPS_ADDR_WC___": 409916
+  }, 
+  "5.3.3p2": {
+    "___GSPS_ADDR_IFC___": 4533080,
+    "___GSPS_ADDR_JOA___": 5080124,
+    "___GSPS_ADDR_AO___": 5021436,
+    "___GSPS_ADDR_WC___": 409996
+  },
+  "5.3.3p3": {
+    "___GSPS_ADDR_IFC___": 4535360,
+    "___GSPS_ADDR_JOA___": 5083148,
+    "___GSPS_ADDR_AO___": 5024460,
+    "___GSPS_ADDR_WC___": 410012
+  },
+  "5.3.4f1": {
+    "___GSPS_ADDR_IFC___": 4535360,
+    "___GSPS_ADDR_JOA___": 5083148,
+    "___GSPS_ADDR_AO___": 5024460,
+    "___GSPS_ADDR_WC___": 410012
+  },
+  "5.3.4p1": {
+    "___GSPS_ADDR_IFC___": 4538048,
+    "___GSPS_ADDR_JOA___": 5089676,
+    "___GSPS_ADDR_AO___": 5030988,
+    "___GSPS_ADDR_WC___": 410252
+  },
+  "5.3.4p2": {
+    "___GSPS_ADDR_IFC___": 4539544,
+    "___GSPS_ADDR_JOA___": 5091452,
+    "___GSPS_ADDR_AO___": 5032764,
+    "___GSPS_ADDR_WC___": 407580
+  },
+  "5.3.4p3": {
+    "___GSPS_ADDR_IFC___": 4539624,
+    "___GSPS_ADDR_JOA___": 5091592,
+    "___GSPS_ADDR_AO___": 5032844,
+    "___GSPS_ADDR_WC___": 407580
+  },
+  "5.3.4p4": {
+    "___GSPS_ADDR_IFC___": 4543392,
+    "___GSPS_ADDR_JOA___": 5100952,
+    "___GSPS_ADDR_AO___": 5042192,
+    "___GSPS_ADDR_WC___": 407596
+  },
+  "5.3.4p5": {
+    "___GSPS_ADDR_IFC___": 4543520,
+    "___GSPS_ADDR_JOA___": 5101080,
+    "___GSPS_ADDR_AO___": 5042320,
+    "___GSPS_ADDR_WC___": 407612
+  },
+  "5.3.4p6": {
+    "___GSPS_ADDR_IFC___": 4544296,
+    "___GSPS_ADDR_JOA___": 5104652,
+    "___GSPS_ADDR_AO___": 5045952,
+    "___GSPS_ADDR_WC___": 408412
+  },
+  "5.3.5f1": {
+    "___GSPS_ADDR_IFC___": 4544296,
+    "___GSPS_ADDR_JOA___": 5104652,
+    "___GSPS_ADDR_AO___": 5045952,
+    "___GSPS_ADDR_WC___": 408412
+  },
+  "5.3.5p1": {
+    "___GSPS_ADDR_IFC___": 4546776,
+    "___GSPS_ADDR_JOA___": 5107132,
+    "___GSPS_ADDR_AO___": 5048432,
+    "___GSPS_ADDR_WC___": 408412
+  },
+  "5.3.5p2": {
+    "___GSPS_ADDR_IFC___": 4550776,
+    "___GSPS_ADDR_JOA___": 5111880,
+    "___GSPS_ADDR_AO___": 5053144,
+    "___GSPS_ADDR_WC___": 408780
+  },
+  "5.3.5p3": {
+    "___GSPS_ADDR_IFC___": 4554024,
+    "___GSPS_ADDR_JOA___": 5115368,
+    "___GSPS_ADDR_AO___": 5056632
+  },
+  "5.3.5p4": {
+    "___GSPS_ADDR_IFC___": 4555104,
+    "___GSPS_ADDR_JOA___": 5116448,
+    "___GSPS_ADDR_AO___": 5058264,
+    "___GSPS_ADDR_WC___": 409228
+  },
+  "5.3.5p5": {
+    "___GSPS_ADDR_IFC___": 4554120,
+    "___GSPS_ADDR_JOA___": 5115164,
+    "___GSPS_ADDR_AO___": 5057200,
+    "___GSPS_ADDR_WC___": 409228
+  },
+  "5.3.5p6": {
+    "___GSPS_ADDR_IFC___": 4555032,
+    "___GSPS_ADDR_JOA___": 5116108,
+    "___GSPS_ADDR_AO___": 5058152,
+    "___GSPS_ADDR_WC___": 409676
+  },
+  "5.3.5p7": {
+    "___GSPS_ADDR_IFC___": 4554744,
+    "___GSPS_ADDR_JOA___": 5116848,
+    "___GSPS_ADDR_AO___": 5058848,
+    "___GSPS_ADDR_WC___": 409580
+  },
+  "5.3.5p8": {
+    "___GSPS_ADDR_IFC___": 4554712,
+    "___GSPS_ADDR_JOA___": 5116800,
+    "___GSPS_ADDR_AO___": 5058800,
+    "___GSPS_ADDR_WC___": 409580
+  },
+  "5.3.6f1": {
+    "___GSPS_ADDR_IFC___": 4554712,
+    "___GSPS_ADDR_JOA___": 5116800,
+    "___GSPS_ADDR_AO___": 5058800,
+    "___GSPS_ADDR_WC___": 409580
+  },
+  "5.3.6p1": {
+    "___GSPS_ADDR_IFC___": 4558520,
+    "___GSPS_ADDR_JOA___": 5120608,
+    "___GSPS_ADDR_AO___": 5062608,
+    "___GSPS_ADDR_WC___": 409580
+  },
+  "5.3.6p2": {
+    "___GSPS_ADDR_IFC___": 4559384,
+    "___GSPS_ADDR_JOA___": 5121472,
+    "___GSPS_ADDR_AO___": 5063472,
+    "___GSPS_ADDR_WC___": 409580
+  },
+  "5.3.6p3": {
+    "___GSPS_ADDR_IFC___": 4561080,
+    "___GSPS_ADDR_JOA___": 5123168,
+    "___GSPS_ADDR_AO___": 5065168,
+    "___GSPS_ADDR_WC___": 409660
+  },
+  "5.3.6p4": {
+    "___GSPS_ADDR_IFC___": 4566280,
+    "___GSPS_ADDR_JOA___": 5128512,
+    "___GSPS_ADDR_AO___": 5070520,
+    "___GSPS_ADDR_WC___": 409740
+  },
+  "5.3.6p5": {
+    "___GSPS_ADDR_IFC___": 4567480,
+    "___GSPS_ADDR_JOA___": 5129712,
+    "___GSPS_ADDR_AO___": 5071720,
+    "___GSPS_ADDR_WC___": 409740
+  },
+  "5.3.6p6": {
+    "___GSPS_ADDR_IFC___": 4569120,
+    "___GSPS_ADDR_JOA___": 5131360,
+    "___GSPS_ADDR_AO___": 5073368,
+    "___GSPS_ADDR_WC___": 409740
+  },
+  "5.3.6p7": {
+    "___GSPS_ADDR_IFC___": 4569136,
+    "___GSPS_ADDR_JOA___": 5131408,
+    "___GSPS_ADDR_AO___": 5073416,
+    "___GSPS_ADDR_WC___": 409756
+  },
+  "5.4.0f3": {
+    "___GSPS_ADDR_IFC___": 4747296,
+    "___GSPS_ADDR_JOA___": 5300264,
+    "___GSPS_ADDR_AO___": 5253732,
+    "___GSPS_ADDR_WC___": 425996
+  },
+  "5.4.0p1": {
+    "___GSPS_ADDR_IFC___": 4747456,
+    "___GSPS_ADDR_JOA___": 5300424,
+    "___GSPS_ADDR_AO___": 5253892,
+    "___GSPS_ADDR_WC___": 425996
+  },
+  "5.4.0p2": {
+    "___GSPS_ADDR_IFC___": 4753312,
+    "___GSPS_ADDR_JOA___": 5306148,
+    "___GSPS_ADDR_AO___": 5259748,
+    "___GSPS_ADDR_WC___": 426028
+  },
+  "5.4.0p3": {
+    "___GSPS_ADDR_IFC___": 4757480,
+    "___GSPS_ADDR_JOA___": 5310988,
+    "___GSPS_ADDR_AO___": 5264228,
+    "___GSPS_ADDR_WC___": 425900
+  },
+  "5.4.0p4": {
+    "___GSPS_ADDR_IFC___": 4758712,
+    "___GSPS_ADDR_JOA___": 5312356,
+    "___GSPS_ADDR_AO___": 5265952,
+    "___GSPS_ADDR_WC___": 425932
+  },
+  "5.4.1f1": {
+    "___GSPS_ADDR_IFC___": 4758712,
+    "___GSPS_ADDR_JOA___": 5312356,
+    "___GSPS_ADDR_AO___": 5265952,
+    "___GSPS_ADDR_WC___":425932
+  },
+  "5.4.1p1": {
+    "___GSPS_ADDR_IFC___": 4759856,
+    "___GSPS_ADDR_JOA___": 5313444,
+    "___GSPS_ADDR_AO___": 5267040,
+    "___GSPS_ADDR_WC___": 426140
+   },
+  "5.4.1p2": {
+    "___GSPS_ADDR_IFC___": 4761520,
+    "___GSPS_ADDR_JOA___": 5315444,
+    "___GSPS_ADDR_AO___": 5269040,
+    "___GSPS_ADDR_WC___": 426236
+  },
+  "5.4.1p3": {
+    "___GSPS_ADDR_IFC___": 4763140,
+    "___GSPS_ADDR_JOA___": 5317092,
+    "___GSPS_ADDR_AO___": 5270688,
+    "___GSPS_ADDR_WC___": 426252
+  },
+  "5.4.1p4": {
+    "___GSPS_ADDR_IFC___": 4755460,
+    "___GSPS_ADDR_JOA___": 5309412,
+    "___GSPS_ADDR_AO___": 5263008,
+    "___GSPS_ADDR_WC___": 426252
+  }
+}
