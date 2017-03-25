@@ -1,0 +1,9 @@
+{
+    "package_name": "com.skydragon.gplay.unity.emulator",
+    "game_name": "Demo",
+    "version_name": 0.1,
+    "orientation": "0",
+    "download_url": "http://192.168.3.76:8080/",
+    "webhooks_loginoautho": "",
+    "isdemo": true
+}
