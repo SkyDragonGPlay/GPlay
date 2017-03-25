@@ -1,0 +1,19 @@
+{
+    "engine": "unity",
+    "extend": {},
+    "name": "unity5.3",
+    "package_name": "com.skydragon.gplay.unity.demo",
+    "isdemo":true,
+    "game_type": 1,
+    "version_code": 1,
+    "engine_version": "5.3",
+    "patch": [],
+    "resconfig": {
+        "size": 1477,
+        "name": "gplay_resource_config.json",
+        "file": "gplay_resource_config.gip",
+        "md5": "78a649eb7ff47a2e5b46065fd0d4bd2d"
+    },
+    "version_name": "1.0",
+    "orientation": "portrait"
+}
